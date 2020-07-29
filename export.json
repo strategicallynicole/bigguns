@@ -2388,35 +2388,35 @@
                         {
                             "type": "action",
                             "label": "Features",
-                            "url": "/features/",
+                            "url": "/features",
                             "style": "link",
                             "stackbit_model_type": "object"
                         },
                         {
                             "type": "action",
                             "label": "Blog",
-                            "url": "/blog/",
+                            "url": "/blog",
                             "style": "link",
                             "stackbit_model_type": "object"
                         },
                         {
                             "type": "action",
                             "label": "About",
-                            "url": "/about/",
+                            "url": "/about",
                             "style": "link",
                             "stackbit_model_type": "object"
                         },
                         {
                             "type": "action",
                             "label": "Style Guide",
-                            "url": "/style-guide/",
+                            "url": "/style-guide",
                             "style": "link",
                             "stackbit_model_type": "object"
                         },
                         {
                             "type": "action",
                             "label": "Contact Us",
-                            "url": "/contact/",
+                            "url": "/contact",
                             "style": "primary",
                             "stackbit_model_type": "object"
                         }
@@ -2430,14 +2430,14 @@
                         {
                             "type": "action",
                             "label": "Contact Us",
-                            "url": "/contact/",
+                            "url": "/contact",
                             "style": "link",
                             "stackbit_model_type": "object"
                         },
                         {
                             "type": "action",
                             "label": "Privacy and Terms",
-                            "url": "/terms/",
+                            "url": "/terms",
                             "style": "link",
                             "stackbit_model_type": "object"
                         }
