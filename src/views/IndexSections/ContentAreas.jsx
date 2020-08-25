@@ -409,7 +409,7 @@ class ContentAreas extends React.Component {
                                 <div className="img-container">
                                   <img
                                     alt="..."
-                                    src={require("assets/img/jacket.png")}
+                                    src={require("../../img/jacket.png")}
                                   />
                                 </div>
                               </td>
@@ -467,7 +467,7 @@ class ContentAreas extends React.Component {
                                 <div className="img-container">
                                   <img
                                     alt="..."
-                                    src={require("assets/img/t-shirt.png")}
+                                    src={require("../../img/t-shirt.png")}
                                   />
                                 </div>
                               </td>
@@ -525,7 +525,7 @@ class ContentAreas extends React.Component {
                                 <div className="img-container">
                                   <img
                                     alt="..."
-                                    src={require("assets/img/gucci.png")}
+                                    src={require("../../img/gucci.png")}
                                   />
                                 </div>
                               </td>
@@ -624,7 +624,7 @@ class ContentAreas extends React.Component {
                             <Media
                               alt="..."
                               className="img-raised"
-                              src={require("assets/img/marie.jpg")}
+                              src={require("../../img/marie.jpg")}
                             />
                           </div>
                         </a>
@@ -684,7 +684,7 @@ class ContentAreas extends React.Component {
                                 <Media
                                   alt="..."
                                   className="img-raised"
-                                  src={require("assets/img/michael.jpg")}
+                                  src={require("../../img/michael.jpg")}
                                 />
                               </div>
                             </a>
@@ -719,7 +719,7 @@ class ContentAreas extends React.Component {
                             <Media
                               alt="..."
                               className="img-raised"
-                              src={require("assets/img/olivia.jpg")}
+                              src={require("../../img/olivia.jpg")}
                             />
                           </div>
                         </a>
@@ -771,7 +771,7 @@ class ContentAreas extends React.Component {
                                 <Media
                                   alt="..."
                                   className="img-raised"
-                                  src={require("assets/img/emily.jpg")}
+                                  src={require("../../img/emily.jpg")}
                                 />
                               </div>
                             </a>
@@ -829,7 +829,7 @@ class ContentAreas extends React.Component {
                             <Media
                               alt="..."
                               className="img-raised"
-                              src={require("assets/img/james.jpg")}
+                              src={require("../../img/james.jpg")}
                             />
                           </div>
                         </a>
@@ -945,7 +945,7 @@ class ContentAreas extends React.Component {
                           <Media
                             alt="..."
                             className="img-raised"
-                            src={require("assets/img/james.jpg")}
+                            src={require("../../img/james.jpg")}
                           />
                         </div>
                       </a>
@@ -984,7 +984,7 @@ class ContentAreas extends React.Component {
                           <Media
                             alt="..."
                             className="img-raised"
-                            src={require("assets/img/placeholder.jpg")}
+                            src={require("../../img/placeholder.jpg")}
                           />
                         </div>
                       </a>

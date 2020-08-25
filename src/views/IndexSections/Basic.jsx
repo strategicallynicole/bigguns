@@ -76,7 +76,7 @@ class Basic extends React.Component {
           <img
             alt="..."
             className="path"
-            src={require("assets/img/path1.png")}
+            src={require("../../img/path1.png")}
           />
           <Container>
             <h2 className="title">Basic Elements</h2>

@@ -29,8 +29,8 @@ import {
 } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
 
 class InvoicePage extends React.Component {
   componentDidMount() {
@@ -61,7 +61,7 @@ class InvoicePage extends React.Component {
                           <img
                             alt="..."
                             className="mb-2"
-                            src={require("assets/img/creative-tim-white-slim2.png")}
+                            src={require("../../img/creative-tim-white-slim2.png")}
                           />
                           <h4>
                             St. Independence Embankment, 050105 Bucharest,

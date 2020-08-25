@@ -22,8 +22,8 @@ import React from "react";
 // } from "reactstrap";
 
 // core components
-import ScrollNavbar from "components/Navbars/ScrollNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ScrollNavbar from "../components/Navbars/ScrollNavbar.jsx";
+import DemoFooter from "../components/Footers/DemoFooter.jsx";
 
 // Sections for this page
 // (we've divided this page into multiple react components to make it a bit more readable)
@@ -32,7 +32,6 @@ import Features from "./SectionsSections/Features.jsx";
 import Blogs from "./SectionsSections/Blogs.jsx";
 import Teams from "./SectionsSections/Teams.jsx";
 import Projects from "./SectionsSections/Projects.jsx";
-import Pricing from "./SectionsSections/Pricing.jsx";
 import Testimonials from "./SectionsSections/Testimonials.jsx";
 import ContactUs from "./SectionsSections/ContactUs.jsx";
 import Tables from "./SectionsSections/Tables.jsx";
@@ -71,7 +70,6 @@ class Sections extends React.Component {
           <Blogs />
           <Teams />
           <Projects />
-          <Pricing />
           <Testimonials />
           <ContactUs />
           <Tables />

@@ -5,6 +5,9 @@ export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
       <head>
+     
+                   <link rel="stylesheet" href='assets/styles/main.css'/>
+      
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>

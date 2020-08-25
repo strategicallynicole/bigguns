@@ -17,9 +17,9 @@
 import React from "react";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import IndexHeader from "components/Headers/IndexHeader.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../components/Navbars/ColorNavbar.jsx";
+import IndexHeader from "../components/Headers/IndexHeader.jsx";
+import DemoFooter from "../components/Footers/DemoFooter.jsx";
 
 // Sections for this page
 // (we've divided this page into multiple react components to make it a bit more readable)

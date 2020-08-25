@@ -49,7 +49,7 @@ class Blogs extends React.Component {
                       style={{
                         backgroundImage:
                           "url(" +
-                          require("assets/img/marc-olivier-jodoin.jpg") +
+                          require("../../img/marc-olivier-jodoin.jpg") +
                           ")"
                       }}
                     />
@@ -74,7 +74,7 @@ class Blogs extends React.Component {
                       className="full-background"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/pawel-nolbert.jpg") + ")"
+                          "url(" + require("../../img/pawel-nolbert.jpg") + ")"
                       }}
                     />
                     <CardBody>
@@ -97,7 +97,7 @@ class Blogs extends React.Component {
                       style={{
                         backgroundImage:
                           "url(" +
-                          require("assets/img/joshua-adam-nolette.jpg") +
+                          require("../../img/joshua-adam-nolette.jpg") +
                           ")"
                       }}
                     />
@@ -132,7 +132,7 @@ class Blogs extends React.Component {
                       className="full-background"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/steven-roe.jpg") + ")"
+                          "url(" + require("../../img/steven-roe.jpg") + ")"
                       }}
                     />
                     <CardBody>
@@ -154,7 +154,7 @@ class Blogs extends React.Component {
                       className="full-background"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/noah-wetering.jpg") + ")"
+                          "url(" + require("../../img/noah-wetering.jpg") + ")"
                       }}
                     />
                     <CardBody>
@@ -178,7 +178,7 @@ class Blogs extends React.Component {
                       className="full-background"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/matthew-henry.jpg") + ")"
+                          "url(" + require("../../img/matthew-henry.jpg") + ")"
                       }}
                     />
                     <CardBody>
@@ -200,7 +200,7 @@ class Blogs extends React.Component {
                       className="full-background"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/waranont.jpg") + ")"
+                          "url(" + require("../../img/waranont.jpg") + ")"
                       }}
                     />
                     <CardBody>
@@ -232,7 +232,7 @@ class Blogs extends React.Component {
                             <img
                               alt="..."
                               className="img rounded"
-                              src={require("assets/img/serge-kutuzov.jpg")}
+                              src={require("../../img/serge-kutuzov.jpg")}
                             />
                           </a>
                         </div>
@@ -261,7 +261,7 @@ class Blogs extends React.Component {
                             <img
                               alt="..."
                               className="avatar img-raised"
-                              src={require("assets/img/julie.jpg")}
+                              src={require("../../img/julie.jpg")}
                             />
                             <div className="text">
                               <span className="name">Tom Hanks</span>
@@ -280,7 +280,7 @@ class Blogs extends React.Component {
                             <img
                               alt="..."
                               className="img rounded"
-                              src={require("assets/img/trae-gould.jpg")}
+                              src={require("../../img/trae-gould.jpg")}
                             />
                           </a>
                         </div>
@@ -309,7 +309,7 @@ class Blogs extends React.Component {
                             <img
                               alt="..."
                               className="avatar img-raised"
-                              src={require("assets/img/james.jpg")}
+                              src={require("../../img/james.jpg")}
                             />
                             <div className="text">
                               <span className="name">Tom Hanks</span>
@@ -328,7 +328,7 @@ class Blogs extends React.Component {
                             <img
                               alt="..."
                               className="img rounded"
-                              src={require("assets/img/mark-harrison.jpg")}
+                              src={require("../../img/mark-harrison.jpg")}
                             />
                           </a>
                         </div>
@@ -357,7 +357,7 @@ class Blogs extends React.Component {
                             <img
                               alt="..."
                               className="avatar img-raised"
-                              src={require("assets/img/michael.jpg")}
+                              src={require("../../img/michael.jpg")}
                             />
                             <div className="text">
                               <span className="name">Tom Hanks</span>
@@ -388,7 +388,7 @@ class Blogs extends React.Component {
                       style={{
                         backgroundImage:
                           "url(" +
-                          require("assets/img/viktor-forgacs.jpg") +
+                          require("../../img/viktor-forgacs.jpg") +
                           ")"
                       }}
                     />
@@ -411,7 +411,7 @@ class Blogs extends React.Component {
                       className="full-background"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/rezaul-karim.jpg") + ")"
+                          "url(" + require("../../img/rezaul-karim.jpg") + ")"
                       }}
                     />
                     <CardBody>
@@ -433,7 +433,7 @@ class Blogs extends React.Component {
                       className="full-background"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/pawel-nolbert.jpg") + ")"
+                          "url(" + require("../../img/pawel-nolbert.jpg") + ")"
                       }}
                     />
                     <CardBody>
@@ -457,7 +457,7 @@ class Blogs extends React.Component {
                       className="full-background"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/mark-finn.jpg") + ")"
+                          "url(" + require("../../img/mark-finn.jpg") + ")"
                       }}
                     />
                     <CardBody>
@@ -490,7 +490,7 @@ class Blogs extends React.Component {
                             <img
                               alt="..."
                               className="img rounded"
-                              src={require("assets/img/steven-roe.jpg")}
+                              src={require("../../img/steven-roe.jpg")}
                             />
                           </a>
                         </div>
@@ -510,7 +510,7 @@ class Blogs extends React.Component {
                               <img
                                 alt="..."
                                 className="avatar img-raised"
-                                src={require("assets/img/p10.jpg")}
+                                src={require("../../img/p10.jpg")}
                               />
                               <span className="ml-1">Mike John</span>
                             </div>
@@ -529,7 +529,7 @@ class Blogs extends React.Component {
                             <img
                               alt="..."
                               className="img rounded"
-                              src={require("assets/img/noah-wetering.jpg")}
+                              src={require("../../img/noah-wetering.jpg")}
                             />
                           </a>
                         </div>
@@ -549,7 +549,7 @@ class Blogs extends React.Component {
                               <img
                                 alt="..."
                                 className="avatar img-raised"
-                                src={require("assets/img/johana.jpg")}
+                                src={require("../../img/johana.jpg")}
                               />
                               <span className="ml-1">Jona Zmud</span>
                             </div>
@@ -568,7 +568,7 @@ class Blogs extends React.Component {
                             <img
                               alt="..."
                               className="img rounded"
-                              src={require("assets/img/mark-harrison.jpg")}
+                              src={require("../../img/mark-harrison.jpg")}
                             />
                           </a>
                         </div>
@@ -589,7 +589,7 @@ class Blogs extends React.Component {
                               <img
                                 alt="..."
                                 className="avatar img-raised"
-                                src={require("assets/img/christian.jpg")}
+                                src={require("../../img/christian.jpg")}
                               />
                               <span className="ml-1">Marc Oliver</span>
                             </div>
@@ -617,7 +617,7 @@ class Blogs extends React.Component {
                       className="full-background"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/ben-konfrst.jpg") + ")"
+                          "url(" + require("../../img/ben-konfrst.jpg") + ")"
                       }}
                     />
                     <CardBody>
@@ -625,7 +625,7 @@ class Blogs extends React.Component {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/olivia.jpg")}
+                          src={require("../../img/olivia.jpg")}
                         />
                         <span className="text-white ml-1">by Johanna Zmud</span>
                       </div>
@@ -664,7 +664,7 @@ class Blogs extends React.Component {
                       style={{
                         backgroundImage:
                           "url(" +
-                          require("assets/img/sendra-martorell.jpg") +
+                          require("../../img/sendra-martorell.jpg") +
                           ")"
                       }}
                     />
@@ -680,7 +680,7 @@ class Blogs extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/johana.jpg")}
+                            src={require("../../img/johana.jpg")}
                           />
                         </div>
                       </div>
@@ -693,7 +693,7 @@ class Blogs extends React.Component {
                       className="full-background"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/randy-colas.jpg") + ")"
+                          "url(" + require("../../img/randy-colas.jpg") + ")"
                       }}
                     />
                     <CardBody>
@@ -708,7 +708,7 @@ class Blogs extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/p10.jpg")}
+                            src={require("../../img/p10.jpg")}
                           />
                         </div>
                       </div>
@@ -725,7 +725,7 @@ class Blogs extends React.Component {
                       style={{
                         backgroundImage:
                           "url(" +
-                          require("assets/img/marc-olivier-jodoin.jpg") +
+                          require("../../img/marc-olivier-jodoin.jpg") +
                           ")"
                       }}
                     />
@@ -739,7 +739,7 @@ class Blogs extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/julie.jpg")}
+                            src={require("../../img/julie.jpg")}
                           />
                         </div>
                       </div>
@@ -752,7 +752,7 @@ class Blogs extends React.Component {
                       className="full-background"
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/waranont.jpg") + ")"
+                          "url(" + require("../../img/waranont.jpg") + ")"
                       }}
                     />
                     <CardBody>
@@ -767,7 +767,7 @@ class Blogs extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/christian.jpg")}
+                            src={require("../../img/christian.jpg")}
                           />
                         </div>
                       </div>

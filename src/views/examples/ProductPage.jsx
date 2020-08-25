@@ -38,8 +38,8 @@ import {
 } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
 
 const items = [
   {
@@ -47,7 +47,7 @@ const items = [
       <img
         alt="..."
         className="d-block"
-        src={require("assets/img/shirt.png")}
+        src={require("../../img/shirt.png")}
       />
     ),
     altText: "",
@@ -59,7 +59,7 @@ const items = [
       <img
         alt="..."
         className="d-block"
-        src={require("assets/img/shorts.png")}
+        src={require("../../img/shorts.png")}
       />
     ),
     altText: "",
@@ -71,7 +71,7 @@ const items = [
       <img
         alt="..."
         className="d-block"
-        src={require("assets/img/tshirt.png")}
+        src={require("../../img/tshirt.png")}
       />
     ),
     altText: "",
@@ -143,7 +143,7 @@ class ProductPage extends React.Component {
             <img
               alt="..."
               className="path shape"
-              src={require("assets/img/shape-s.png")}
+              src={require("../../img/shape-s.png")}
             />
             <Container>
               <h1 className="h1-seo">Our products</h1>
@@ -351,7 +351,7 @@ class ProductPage extends React.Component {
                           <img
                             alt="..."
                             className="img img-raised"
-                            src={require("assets/img/michael.jpg")}
+                            src={require("../../img/michael.jpg")}
                           />
                         </a>
                       </div>
@@ -377,7 +377,7 @@ class ProductPage extends React.Component {
                           <img
                             alt="..."
                             className="img img-raised"
-                            src={require("assets/img/olivia.jpg")}
+                            src={require("../../img/olivia.jpg")}
                           />
                         </a>
                       </div>
@@ -403,7 +403,7 @@ class ProductPage extends React.Component {
                           <img
                             alt="..."
                             className="img img-raised"
-                            src={require("assets/img/james.jpg")}
+                            src={require("../../img/james.jpg")}
                           />
                         </a>
                       </div>
@@ -439,7 +439,7 @@ class ProductPage extends React.Component {
                         <img
                           alt="..."
                           className="img rounded"
-                          src={require("assets/img/bag.png")}
+                          src={require("../../img/bag.png")}
                         />
                       </a>
                     </div>
@@ -487,7 +487,7 @@ class ProductPage extends React.Component {
                         <img
                           alt="..."
                           className="img rounded"
-                          src={require("assets/img/tshirt.png")}
+                          src={require("../../img/tshirt.png")}
                         />
                       </a>
                     </div>
@@ -536,7 +536,7 @@ class ProductPage extends React.Component {
                         <img
                           alt="..."
                           className="img rounded"
-                          src={require("assets/img/shirt.png")}
+                          src={require("../../img/shirt.png")}
                         />
                       </a>
                     </div>
@@ -585,7 +585,7 @@ class ProductPage extends React.Component {
                         <img
                           alt="..."
                           className="img rounded"
-                          src={require("assets/img/jeans.png")}
+                          src={require("../../img/jeans.png")}
                         />
                       </a>
                     </div>

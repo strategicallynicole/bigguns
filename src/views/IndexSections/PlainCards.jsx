@@ -48,7 +48,7 @@ class PlainCards extends React.Component {
                     <img
                       alt="..."
                       className="img rounded img-raised"
-                      src={require("assets/img/pawel-nolbert.jpg")}
+                      src={require("../../img/pawel-nolbert.jpg")}
                     />
                   </div>
                   <CardBody>
@@ -75,7 +75,7 @@ class PlainCards extends React.Component {
                       <img
                         alt="..."
                         className="img rounded img-raised"
-                        src={require("assets/img/max.jpg")}
+                        src={require("../../img/max.jpg")}
                       />
                     </a>
                   </div>
@@ -96,7 +96,7 @@ class PlainCards extends React.Component {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/lora.jpg")}
+                          src={require("../../img/lora.jpg")}
                         />
                         <span className="ml-1">Mike John</span>
                       </div>
@@ -115,7 +115,7 @@ class PlainCards extends React.Component {
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/serge-kutuzov.jpg")}
+                        src={require("../../img/serge-kutuzov.jpg")}
                       />
                     </a>
                   </div>
@@ -163,7 +163,7 @@ class PlainCards extends React.Component {
                     <img
                       alt="..."
                       className="img rounded"
-                      src={require("assets/img/p10.jpg")}
+                      src={require("../../img/p10.jpg")}
                     />
                   </div>
                   <CardBody>
@@ -210,7 +210,7 @@ class PlainCards extends React.Component {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/mike.jpg")}
+                        src={require("../../img/mike.jpg")}
                       />
                     </a>
                   </div>
@@ -257,7 +257,7 @@ class PlainCards extends React.Component {
                       <img
                         alt="..."
                         className="img img-raised"
-                        src={require("assets/img/james.jpg")}
+                        src={require("../../img/james.jpg")}
                       />
                     </a>
                   </div>
@@ -287,7 +287,7 @@ class PlainCards extends React.Component {
                         <img
                           alt="..."
                           className="img img-raised"
-                          src={require("assets/img/mike.jpeg")}
+                          src={require("../../img/mike.jpeg")}
                         />
                       </a>
                     </div>

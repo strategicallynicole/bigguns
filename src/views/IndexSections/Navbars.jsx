@@ -41,7 +41,7 @@ class Navbars extends React.Component {
           <img
             alt="..."
             className="path"
-            src={require("assets/img/path3.png")}
+            src={require("../../img/3.png")}
           />
           <Container id="menu-dropdown">
             <Row>

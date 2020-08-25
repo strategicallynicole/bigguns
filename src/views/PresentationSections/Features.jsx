@@ -74,7 +74,7 @@ class Features extends React.Component {
               </Col>
               <Col md="6">
                 <div className="image-container">
-                  <img alt="..." src={require("assets/img/ipad3.png")} />
+                  <img alt="..." src={require("../../img/ipad3.png")} />
                 </div>
               </Col>
             </Row>

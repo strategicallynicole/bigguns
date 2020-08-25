@@ -44,24 +44,24 @@ import {
 } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
 
 const items = [
   {
     altText: "",
     caption: "Big City Life, United States",
-    src: require("assets/img/denys.jpg")
+    src: require("../../img/denys.jpg")
   },
   {
     altText: "",
     caption: "Somewhere Beyond, United States",
-    src: require("assets/img/fabien-bazanegue.jpg")
+    src: require("../../img/fabien-bazanegue.jpg")
   },
   {
     altText: "",
     caption: "Stocks, United States",
-    src: require("assets/img/mark-finn.jpg")
+    src: require("../../img/mark-finn.jpg")
   }
 ];
 
@@ -124,12 +124,12 @@ class ProfilePage extends React.Component {
             <img
               alt="..."
               className="dots"
-              src={require("assets/img/dots.png")}
+              src={require("../../img/dots.png")}
             />
             <img
               alt="..."
               className="path"
-              src={require("assets/img/path4.png")}
+              src={require("../../img/path4.png")}
             />
             <Container className="align-items-center">
               <Row>
@@ -187,7 +187,7 @@ class ProfilePage extends React.Component {
                       <img
                         alt="..."
                         className="img-center img-fluid rounded-circle"
-                        src={require("assets/img/mike.jpg")}
+                        src={require("../../img/mike.jpg")}
                       />
                       <h4 className="title">Transactions</h4>
                     </CardHeader>

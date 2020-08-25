@@ -44,7 +44,7 @@ class Examples extends React.Component {
                   <Link to="/about-us">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/about-us.png")}
+                      src={require("../../img/presentation-page/pages/about-us.png")}
                     />
                   </Link>
                 </Card>
@@ -53,7 +53,7 @@ class Examples extends React.Component {
                   <Link to="/landing-page">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/landing.png")}
+                      src={require("../../img/presentation-page/pages/landing.png")}
                     />
                   </Link>
                 </Card>
@@ -62,7 +62,7 @@ class Examples extends React.Component {
                   <Link to="/login-page">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/login.png")}
+                      src={require("../../img/presentation-page/pages/login.png")}
                     />
                   </Link>
                 </Card>
@@ -71,7 +71,7 @@ class Examples extends React.Component {
                   <Link to="/register-page">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/register.png")}
+                      src={require("../../img/presentation-page/pages/register.png")}
                     />
                   </Link>
                 </Card>
@@ -80,7 +80,7 @@ class Examples extends React.Component {
                   <Link to="/500-error">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/500-error.png")}
+                      src={require("../../img/presentation-page/pages/500-error.png")}
                     />
                   </Link>
                 </Card>
@@ -89,7 +89,7 @@ class Examples extends React.Component {
                   <Link to="/404-error">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/404-error.png")}
+                      src={require("../../img/presentation-page/pages/404-error.png")}
                     />
                   </Link>
                 </Card>
@@ -98,7 +98,7 @@ class Examples extends React.Component {
                   <Link to="/invoice-page">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/invoice-page.png")}
+                      src={require("../../img/presentation-page/pages/invoice-page.png")}
                     />
                   </Link>
                 </Card>
@@ -109,7 +109,7 @@ class Examples extends React.Component {
                   <Link to="/blog-post">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/blog-post.png")}
+                      src={require("../../img/presentation-page/pages/blog-post.png")}
                     />
                   </Link>
                 </Card>
@@ -118,7 +118,7 @@ class Examples extends React.Component {
                   <Link to="/product-page">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/product.png")}
+                      src={require("../../img/presentation-page/pages/product.png")}
                     />
                   </Link>
                 </Card>
@@ -127,7 +127,7 @@ class Examples extends React.Component {
                   <Link to="/profile-page">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/profile.png")}
+                      src={require("../../img/presentation-page/pages/profile.png")}
                     />
                   </Link>
                 </Card>
@@ -136,7 +136,7 @@ class Examples extends React.Component {
                   <Link to="/account-settings">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/account-settings.png")}
+                      src={require("../../img/presentation-page/pages/account-settings.png")}
                     />
                   </Link>
                 </Card>
@@ -145,7 +145,7 @@ class Examples extends React.Component {
                   <Link to="/reset-page">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/reset-page.png")}
+                      src={require("../../img/presentation-page/pages/reset-page.png")}
                     />
                   </Link>
                 </Card>
@@ -154,7 +154,7 @@ class Examples extends React.Component {
                   <Link to="/checkout-page">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/checkout-page.png")}
+                      src={require("../../img/presentation-page/pages/checkout-page.png")}
                     />
                   </Link>
                 </Card>
@@ -163,7 +163,7 @@ class Examples extends React.Component {
                   <Link to="/chat-page">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/chat-page.png")}
+                      src={require("../../img/presentation-page/pages/chat-page.png")}
                     />
                   </Link>
                 </Card>
@@ -174,7 +174,7 @@ class Examples extends React.Component {
                   <Link to="/pricing">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/pricing.png")}
+                      src={require("../../img/presentation-page/pages/pricing.png")}
                     />
                   </Link>
                 </Card>
@@ -183,7 +183,7 @@ class Examples extends React.Component {
                   <Link to="/ecommerce">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/ecommerce.png")}
+                      src={require("../../img/presentation-page/pages/ecommerce.png")}
                     />
                   </Link>
                 </Card>
@@ -192,7 +192,7 @@ class Examples extends React.Component {
                   <Link to="/blog-posts">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/blog-posts.png")}
+                      src={require("../../img/presentation-page/pages/blog-posts.png")}
                     />
                   </Link>
                 </Card>
@@ -201,7 +201,7 @@ class Examples extends React.Component {
                   <Link to="/contact-us">
                     <img
                       alt="..."
-                      src={require("assets/img/presentation-page/pages/contact.png")}
+                      src={require("../../img/presentation-page/pages/contact.png")}
                     />
                   </Link>
                 </Card>

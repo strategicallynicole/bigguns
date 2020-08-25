@@ -32,13 +32,13 @@ class Content extends React.Component {
                     alt="..."
                     className="img img-raised rounded img-comments rellax"
                     data-rellax-speed="1"
-                    src={require("assets/img/presentation-page/content.png")}
+                    src={require("../../img/presentation-page/content.png")}
                   />
                   <img
                     alt="..."
                     className="img img-raised rounded img-blog rellax"
                     data-rellax-speed="4"
-                    src={require("assets/img/presentation-page/content1.png")}
+                    src={require("../../img/presentation-page/content1.png")}
                   />
                 </div>
               </Col>

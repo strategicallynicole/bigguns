@@ -34,8 +34,8 @@ import {
 } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
 
 const items = [
   {
@@ -49,7 +49,7 @@ const items = [
             <img
               alt="..."
               className="d-block"
-              src={require("assets/img/charlie.jpg")}
+              src={require("../../img/charlie.jpg")}
             />
           </Col>
           <Col md="4">
@@ -113,7 +113,7 @@ const items = [
             <img
               alt="..."
               className="d-block"
-              src={require("assets/img/tom-klein.jpg")}
+              src={require("../../img/tom-klein.jpg")}
             />
           </Col>
           <Col md="4">
@@ -177,7 +177,7 @@ const items = [
             <img
               alt="..."
               className="d-block"
-              src={require("assets/img/lucy.jpg")}
+              src={require("../../img/lucy.jpg")}
             />
           </Col>
           <Col md="4">
@@ -279,7 +279,7 @@ class AboutUs extends React.Component {
             <img
               alt="..."
               className="path path3"
-              src={require("assets/img/path3.png")}
+              src={require("../../img/path3.png")}
             />
             <svg className="hidden">
               {/* All deco shapes */}
@@ -325,9 +325,9 @@ class AboutUs extends React.Component {
                         className="injected-svg js-svg-injector"
                         data-img-paths={
                           "[{&quot;targetId&quot;: &quot;#imageShape1&quot;, &quot;newPath&quot;: &quot;" +
-                          require("assets/img/painter.png") +
+                          require("../../img/painter.png") +
                           "&quot;},{&quot;targetId&quot;: &quot;#imageShape2&quot;, &quot;newPath&quot;: &quot;" +
-                          require("assets/img/painter.png") +
+                          require("../../img/painter.png") +
                           "&quot;}]"
                         }
                         data-parent="#SVGNonStandardHeroShape"
@@ -357,7 +357,7 @@ class AboutUs extends React.Component {
                               style={{ overflow: "visible" }}
                               transform="matrix(0.9488 0 0 0.9488 25 53.1187)"
                               width="1000"
-                              xlinkHref={require("assets/img/painter.png")}
+                              xlinkHref={require("../../img/painter.png")}
                             />
                           </g>
                         </g>
@@ -384,7 +384,7 @@ class AboutUs extends React.Component {
                               style={{ overflow: "visible" }}
                               transform="matrix(0.9488 0 0 0.9488 25 53.1187)"
                               width="1000"
-                              xlinkHref={require("assets/img/painter.png")}
+                              xlinkHref={require("../../img/painter.png")}
                             />
                           </g>
                         </g>
@@ -411,7 +411,7 @@ class AboutUs extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/primary.png")}
+                        src={require("../../img/feature-blob/primary.png")}
                       />
                       <i className="tim-icons icon-user-run" />
                     </div>
@@ -428,7 +428,7 @@ class AboutUs extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/success.png")}
+                        src={require("../../img/feature-blob/success.png")}
                       />
                       <i className="tim-icons icon-atom" />
                     </div>
@@ -445,7 +445,7 @@ class AboutUs extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/warning.png")}
+                        src={require("../../img/feature-blob/warning.png")}
                       />
                       <i className="tim-icons icon-gift-2" />
                     </div>
@@ -463,7 +463,7 @@ class AboutUs extends React.Component {
             <img
               alt="..."
               className="path path4"
-              src={require("assets/img/path4.png")}
+              src={require("../../img/path4.png")}
             />
             <Container>
               <Row className="mb-5">
@@ -481,7 +481,7 @@ class AboutUs extends React.Component {
                   <img
                     alt="..."
                     className="d-block"
-                    src={require("assets/img/matthew-henry.jpg")}
+                    src={require("../../img/matthew-henry.jpg")}
                   />
                 </Col>
               </Row>

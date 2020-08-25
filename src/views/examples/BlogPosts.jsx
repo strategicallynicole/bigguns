@@ -40,8 +40,8 @@ import {
 } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
 
 class BlogPosts extends React.Component {
   constructor(props) {
@@ -91,7 +91,7 @@ class BlogPosts extends React.Component {
               className="page-header-image"
               style={{
                 backgroundImage:
-                  "url(" + require("assets/img/ruvim-noga.jpg") + ")",
+                  "url(" + require("../../img/ruvim-noga.jpg") + ")",
                 transform: this.state.transform
               }}
             />
@@ -131,7 +131,7 @@ class BlogPosts extends React.Component {
                         <img
                           alt="..."
                           className="img rounded"
-                          src={require("assets/img/steven-roe.jpg")}
+                          src={require("../../img/steven-roe.jpg")}
                         />
                       </a>
                     </div>
@@ -151,7 +151,7 @@ class BlogPosts extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/p10.jpg")}
+                            src={require("../../img/p10.jpg")}
                           />
                           <span className="ml-1">Mike John</span>
                         </div>
@@ -169,7 +169,7 @@ class BlogPosts extends React.Component {
                         <img
                           alt="..."
                           className="img rounded"
-                          src={require("assets/img/noah-wetering.jpg")}
+                          src={require("../../img/noah-wetering.jpg")}
                         />
                       </a>
                     </div>
@@ -189,7 +189,7 @@ class BlogPosts extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/johana.jpg")}
+                            src={require("../../img/johana.jpg")}
                           />
                           <span className="ml-1">Johanna Zmud</span>
                         </div>
@@ -207,7 +207,7 @@ class BlogPosts extends React.Component {
                         <img
                           alt="..."
                           className="img rounded"
-                          src={require("assets/img/mark-harrison.jpg")}
+                          src={require("../../img/mark-harrison.jpg")}
                         />
                       </a>
                     </div>
@@ -227,7 +227,7 @@ class BlogPosts extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/christian.jpg")}
+                            src={require("../../img/christian.jpg")}
                           />
                           <span className="ml-1">Marc Oliver</span>
                         </div>
@@ -245,7 +245,7 @@ class BlogPosts extends React.Component {
                         <img
                           alt="..."
                           className="img rounded img-raised"
-                          src={require("assets/img/pawel-nolbert.jpg")}
+                          src={require("../../img/pawel-nolbert.jpg")}
                         />
                       </a>
                     </div>
@@ -269,7 +269,7 @@ class BlogPosts extends React.Component {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/olivia.jpg")}
+                          src={require("../../img/olivia.jpg")}
                         />
                         <span className="ml-1">Anna Spark</span>
                       </div>
@@ -283,7 +283,7 @@ class BlogPosts extends React.Component {
                         <img
                           alt="..."
                           className="img rounded img-raised"
-                          src={require("assets/img/serge-kutuzov.jpg")}
+                          src={require("../../img/serge-kutuzov.jpg")}
                         />
                       </a>
                     </div>
@@ -306,7 +306,7 @@ class BlogPosts extends React.Component {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/michael.jpg")}
+                          src={require("../../img/michael.jpg")}
                         />
                         <span className="ml-1">John Black</span>
                       </div>
@@ -320,7 +320,7 @@ class BlogPosts extends React.Component {
                         <img
                           alt="..."
                           className="img rounded img-raised"
-                          src={require("assets/img/1234.png")}
+                          src={require("../../img/1234.png")}
                         />
                       </a>
                     </div>
@@ -346,7 +346,7 @@ class BlogPosts extends React.Component {
                         <img
                           alt="..."
                           className="avatar img-raised"
-                          src={require("assets/img/james.jpg")}
+                          src={require("../../img/james.jpg")}
                         />
                         <span className="ml-1">James Newman</span>
                       </div>
@@ -369,7 +369,7 @@ class BlogPosts extends React.Component {
                               <img
                                 alt="..."
                                 className="img rounded"
-                                src={require("assets/img/trae-gould.jpg")}
+                                src={require("../../img/trae-gould.jpg")}
                               />
                             </a>
                           </div>
@@ -404,7 +404,7 @@ class BlogPosts extends React.Component {
                               <img
                                 alt="..."
                                 className="avatar img-raised"
-                                src={require("assets/img/james.jpg")}
+                                src={require("../../img/james.jpg")}
                               />
                               <div className="text">
                                 <span className="name">Tom Hanks</span>
@@ -423,7 +423,7 @@ class BlogPosts extends React.Component {
                               <img
                                 alt="..."
                                 className="img rounded"
-                                src={require("assets/img/mark-harrison.jpg")}
+                                src={require("../../img/mark-harrison.jpg")}
                               />
                             </a>
                           </div>
@@ -459,7 +459,7 @@ class BlogPosts extends React.Component {
                               <img
                                 alt="..."
                                 className="avatar img-raised"
-                                src={require("assets/img/michael.jpg")}
+                                src={require("../../img/michael.jpg")}
                               />
                               <div className="text">
                                 <span className="name">Tom Hanks</span>
@@ -491,7 +491,7 @@ class BlogPosts extends React.Component {
                         style={{
                           backgroundImage:
                             "url(" +
-                            require("assets/img/viktor-forgacs.jpg") +
+                            require("../../img/viktor-forgacs.jpg") +
                             ")"
                         }}
                       />
@@ -515,7 +515,7 @@ class BlogPosts extends React.Component {
                         style={{
                           backgroundImage:
                             "url(" +
-                            require("assets/img/rezaul-karim.jpg") +
+                            require("../../img/rezaul-karim.jpg") +
                             ")"
                         }}
                       />
@@ -539,7 +539,7 @@ class BlogPosts extends React.Component {
                         style={{
                           backgroundImage:
                             "url(" +
-                            require("assets/img/pawel-nolbert.jpg") +
+                            require("../../img/pawel-nolbert.jpg") +
                             ")"
                         }}
                       />
@@ -564,7 +564,7 @@ class BlogPosts extends React.Component {
                         className="full-background"
                         style={{
                           backgroundImage:
-                            "url(" + require("assets/img/mark-finn.jpg") + ")"
+                            "url(" + require("../../img/mark-finn.jpg") + ")"
                         }}
                       />
                       <CardBody>
@@ -627,7 +627,7 @@ class BlogPosts extends React.Component {
                           <img
                             alt="..."
                             className="img img-raised rounded"
-                            src={require("assets/img/mike.jpeg")}
+                            src={require("../../img/mike.jpeg")}
                           />
                         </a>
                       </div>
@@ -701,7 +701,7 @@ class BlogPosts extends React.Component {
                           <img
                             alt="..."
                             className="img img-raised rounded"
-                            src={require("assets/img/christian.jpg")}
+                            src={require("../../img/christian.jpg")}
                           />
                         </a>
                       </div>
@@ -775,7 +775,7 @@ class BlogPosts extends React.Component {
                           <img
                             alt="..."
                             className="img img-raised rounded"
-                            src={require("assets/img/johana.jpg")}
+                            src={require("../../img/johana.jpg")}
                           />
                         </a>
                       </div>

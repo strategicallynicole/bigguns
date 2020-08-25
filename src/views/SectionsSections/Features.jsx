@@ -42,7 +42,7 @@ class Features extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/primary.png")}
+                        src={require("../../img/feature-blob/primary.png")}
                       />
                       <i className="tim-icons icon-user-run" />
                     </div>
@@ -59,7 +59,7 @@ class Features extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/success.png")}
+                        src={require("../../img/feature-blob/success.png")}
                       />
                       <i className="tim-icons icon-atom" />
                     </div>
@@ -76,7 +76,7 @@ class Features extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/warning.png")}
+                        src={require("../../img/feature-blob/warning.png")}
                       />
                       <i className="tim-icons icon-gift-2" />
                     </div>
@@ -215,7 +215,7 @@ class Features extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/success.png")}
+                        src={require("../../img/feature-blob/success.png")}
                       />
                       <i className="tim-icons icon-html5" />
                     </div>
@@ -244,7 +244,7 @@ class Features extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/warning.png")}
+                        src={require("../../img/feature-blob/warning.png")}
                       />
                       <i className="tim-icons icon-heart-2" />
                     </div>
@@ -275,7 +275,7 @@ class Features extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/danger.png")}
+                        src={require("../../img/feature-blob/danger.png")}
                       />
                       <i className="tim-icons icon-chart-bar-32" />
                     </div>
@@ -304,7 +304,7 @@ class Features extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/info.png")}
+                        src={require("../../img/feature-blob/info.png")}
                       />
                       <i className="tim-icons icon-paper" />
                     </div>
@@ -423,7 +423,7 @@ class Features extends React.Component {
                     <img
                       alt="..."
                       height="600"
-                      src={require("assets/img/pawel-nolbert.jpg")}
+                      src={require("../../img/pawel-nolbert.jpg")}
                       width="500"
                     />
                   </div>
@@ -528,7 +528,7 @@ class Features extends React.Component {
                   <img
                     alt="..."
                     className="shape"
-                    src={require("assets/img/path2.png")}
+                    src={require("../../img/path2.png")}
                   />
                   <figure className="ie-non-standard-hero-shape">
                     <svg
@@ -559,7 +559,7 @@ class Features extends React.Component {
                             style={{ overflow: "visible" }}
                             transform="matrix(0.9488 0 0 0.9488 25 53.1187)"
                             width="900"
-                            xlinkHref={require("assets/img/max.jpg")}
+                            xlinkHref={require("../../img/max.jpg")}
                           />
                         </g>
                       </g>
@@ -586,7 +586,7 @@ class Features extends React.Component {
                             style={{ overflow: "visible" }}
                             transform="matrix(0.9488 0 0 0.9488 25 53.1187)"
                             width="900"
-                            xlinkHref={require("assets/img/max.jpg")}
+                            xlinkHref={require("../../img/max.jpg")}
                           />
                         </g>
                       </g>

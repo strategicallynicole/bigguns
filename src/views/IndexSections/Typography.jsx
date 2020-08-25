@@ -27,12 +27,12 @@ class Typography extends React.Component {
           <img
             alt="..."
             className="path"
-            src={require("assets/img/path1.png")}
+            src={require("../../img/path1.png")}
           />
           <img
             alt="..."
             className="path path1"
-            src={require("assets/img/path3.png")}
+            src={require("../../img/path3.png")}
           />
           <Container>
             <h3 className="title">Typography</h3>
@@ -163,7 +163,7 @@ class Typography extends React.Component {
                   <img
                     alt="..."
                     className="img-fluid rounded shadow"
-                    src={require("assets/img/christian.jpg")}
+                    src={require("../../img/christian.jpg")}
                     style={{ width: "150px" }}
                   />
                 </Col>
@@ -174,7 +174,7 @@ class Typography extends React.Component {
                   <img
                     alt="..."
                     className="img-fluid rounded-circle shadow"
-                    src={require("assets/img/james.jpg")}
+                    src={require("../../img/james.jpg")}
                     style={{ width: "150px" }}
                   />
                 </Col>
@@ -185,7 +185,7 @@ class Typography extends React.Component {
                   <img
                     alt="..."
                     className="img-fluid rounded shadow-lg"
-                    src={require("assets/img/lora.jpg")}
+                    src={require("../../img/lora.jpg")}
                     style={{ width: "150px" }}
                   />
                 </Col>
@@ -196,7 +196,7 @@ class Typography extends React.Component {
                   <img
                     alt="..."
                     className="img-fluid rounded-circle shadow-lg"
-                    src={require("assets/img/mike.jpeg")}
+                    src={require("../../img/mike.jpeg")}
                     style={{ width: "150px" }}
                   />
                 </Col>

@@ -20,8 +20,8 @@ import React from "react";
 import { Container, Row, Col } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
 
 class Error500 extends React.Component {
   componentDidMount() {
@@ -43,7 +43,7 @@ class Error500 extends React.Component {
               className="page-header-image"
               style={{
                 backgroundImage:
-                  "url(" + require("assets/img/randy-colas.jpg") + ")"
+                  "url(" + require("../../img/randy-colas.jpg") + ")"
               }}
             />
             <Container>

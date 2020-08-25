@@ -49,21 +49,21 @@ import {
 } from "reactstrap";
 
 // core components
-import ImageUpload from "components/CustomUpload/ImageUpload.jsx";
+import ImageUpload from "../../components/CustomUpload/ImageUpload.jsx";
 
 const carouselItems = [
   {
-    src: require("assets/img/denys.jpg"),
+    src: require("../../img/denys.jpg"),
     altText: "Slide 1",
     caption: ""
   },
   {
-    src: require("assets/img/fabien-bazanegue.jpg"),
+    src: require("../../img/fabien-bazanegue.jpg"),
     altText: "Slide 2",
     caption: ""
   },
   {
-    src: require("assets/img/mark-finn.jpg"),
+    src: require("../../img/mark-finn.jpg"),
     altText: "Slide 3",
     caption: ""
   }
@@ -121,12 +121,12 @@ class JavaScript extends React.Component {
           <img
             alt="..."
             className="path"
-            src={require("assets/img/path5.png")}
+            src={require("../../img/path5.png")}
           />
           <img
             alt="..."
             className="path path1"
-            src={require("assets/img/path5.png")}
+            src={require("../../img/path5.png")}
           />
           <Container>
             <h3 className="title mb-5">Javascript components</h3>
@@ -251,7 +251,7 @@ class JavaScript extends React.Component {
                           <img
                             alt="..."
                             className="rounded img-raised"
-                            src={require("assets/img/pricing1.jpg")}
+                            src={require("../../img/pricing1.jpg")}
                           />
                         </div>
                       </Col>
@@ -279,7 +279,7 @@ class JavaScript extends React.Component {
                           <img
                             alt="..."
                             className="rounded img-raised"
-                            src={require("assets/img/project9.jpg")}
+                            src={require("../../img/project9.jpg")}
                           />
                         </div>
                       </Col>
@@ -359,7 +359,7 @@ class JavaScript extends React.Component {
                     <CardHeader>
                       <CardImg
                         alt="..."
-                        src={require("assets/img/square-purple-1.png")}
+                        src={require("../../img/square-purple-1.png")}
                       />
                       <CardTitle tag="h4">Login</CardTitle>
                       <button

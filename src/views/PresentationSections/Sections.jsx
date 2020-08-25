@@ -51,51 +51,25 @@ class Sections extends React.Component {
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/header1.png")}
+                    src={require("../../img/presentation-page/header1.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/header2.png")}
+                    src={require("../../img/presentation-page/header2.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/header3.png")}
+                    src={require("../../img/presentation-page/header3.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/header4.png")}
-                  />
-                </Col>
-              </Row>
-              <Row>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/header5.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/header6.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/features1.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/features2.png")}
+                    src={require("../../img/presentation-page/header4.png")}
                   />
                 </Col>
               </Row>
@@ -103,51 +77,25 @@ class Sections extends React.Component {
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/features3.png")}
+                    src={require("../../img/presentation-page/header5.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/features4.png")}
+                    src={require("../../img/presentation-page/header6.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/features5.png")}
+                    src={require("../../img/presentation-page/features1.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/features6.png")}
-                  />
-                </Col>
-              </Row>
-              <Row>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/blogpost1.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/blogpost2.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/blogpost3.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/blogpost4.png")}
+                    src={require("../../img/presentation-page/features2.png")}
                   />
                 </Col>
               </Row>
@@ -155,51 +103,25 @@ class Sections extends React.Component {
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/blogpost5.png")}
+                    src={require("../../img/presentation-page/features3.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/blogpost6.png")}
+                    src={require("../../img/presentation-page/features4.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/blogpost7.png")}
+                    src={require("../../img/presentation-page/features5.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/team1.png")}
-                  />
-                </Col>
-              </Row>
-              <Row>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/team2.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/team3.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/team4.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/team5.png")}
+                    src={require("../../img/presentation-page/features6.png")}
                   />
                 </Col>
               </Row>
@@ -207,51 +129,25 @@ class Sections extends React.Component {
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/projects1.png")}
+                    src={require("../../img/presentation-page/blogpost1.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/projects2.png")}
+                    src={require("../../img/presentation-page/blogpost2.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/projects3.png")}
+                    src={require("../../img/presentation-page/blogpost3.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/projects4.png")}
-                  />
-                </Col>
-              </Row>
-              <Row>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/pricing1.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/pricing2.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/pricing3.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/pricing4.png")}
+                    src={require("../../img/presentation-page/blogpost4.png")}
                   />
                 </Col>
               </Row>
@@ -259,51 +155,25 @@ class Sections extends React.Component {
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/pricing5.png")}
+                    src={require("../../img/presentation-page/blogpost5.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/pricing6.png")}
+                    src={require("../../img/presentation-page/blogpost6.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/testimonials1.png")}
+                    src={require("../../img/presentation-page/blogpost7.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/testimonials2.png")}
-                  />
-                </Col>
-              </Row>
-              <Row>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/testimonials3.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/testimonials4.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/contact1.png")}
-                  />
-                </Col>
-                <Col md="3">
-                  <img
-                    alt="..."
-                    src={require("assets/img/presentation-page/contact2.png")}
+                    src={require("../../img/presentation-page/team1.png")}
                   />
                 </Col>
               </Row>
@@ -311,25 +181,155 @@ class Sections extends React.Component {
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/contact3.png")}
+                    src={require("../../img/presentation-page/team2.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/contact4.png")}
+                    src={require("../../img/presentation-page/team3.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/table1.png")}
+                    src={require("../../img/presentation-page/team4.png")}
                   />
                 </Col>
                 <Col md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/table2.png")}
+                    src={require("../../img/presentation-page/team5.png")}
+                  />
+                </Col>
+              </Row>
+              <Row>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/projects1.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/projects2.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/projects3.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/projects4.png")}
+                  />
+                </Col>
+              </Row>
+              <Row>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/pricing1.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/pricing2.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/pricing3.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/pricing4.png")}
+                  />
+                </Col>
+              </Row>
+              <Row>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/pricing5.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/pricing6.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/testimonials1.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/testimonials2.png")}
+                  />
+                </Col>
+              </Row>
+              <Row>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/testimonials3.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/testimonials4.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/contact1.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/contact2.png")}
+                  />
+                </Col>
+              </Row>
+              <Row>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/contact3.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/contact4.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/table1.png")}
+                  />
+                </Col>
+                <Col md="3">
+                  <img
+                    alt="..."
+                    src={require("../../img/presentation-page/table2.png")}
                   />
                 </Col>
               </Row>
@@ -337,7 +337,7 @@ class Sections extends React.Component {
                 <Col className="mx-auto" md="3">
                   <img
                     alt="..."
-                    src={require("assets/img/presentation-page/accordion.png")}
+                    src={require("../../img/presentation-page/accordion.png")}
                   />
                 </Col>
               </Row>

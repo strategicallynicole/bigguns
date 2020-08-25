@@ -36,8 +36,8 @@ import {
 } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
 
 class ResetPage extends React.Component {
   state = {};
@@ -70,7 +70,7 @@ class ResetPage extends React.Component {
                     <CardHeader>
                       <CardImg
                         alt="..."
-                        src={require("assets/img/shape.png")}
+                        src={require("../../img/shape.png")}
                       />
                       <CardTitle tag="h4">Reset Password</CardTitle>
                     </CardHeader>

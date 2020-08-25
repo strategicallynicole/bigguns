@@ -45,9 +45,9 @@ import {
 } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
-import ImageUpload from "components/CustomUpload/ImageUpload.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
+import ImageUpload from "../../components/CustomUpload/ImageUpload.jsx";
 
 class AccountSettings extends React.Component {
   state = {
@@ -516,7 +516,7 @@ class AccountSettings extends React.Component {
                                 <img
                                   alt="..."
                                   className="avatar"
-                                  src={require("assets/img/visas.png")}
+                                  src={require("../../img/visas.png")}
                                 />
                               </th>
                               <td>
@@ -556,7 +556,7 @@ class AccountSettings extends React.Component {
                                 <img
                                   alt="..."
                                   className="avatar"
-                                  src={require("assets/img/mastercard.png")}
+                                  src={require("../../img/mastercard.png")}
                                 />
                               </th>
                               <td>

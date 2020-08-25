@@ -31,32 +31,32 @@ class PresentationHeader extends React.Component {
           <img
             alt="..."
             className="path"
-            src={require("assets/img/blob.png")}
+            src={require("../../img/blob.png")}
           />
           <img
             alt="..."
             className="path2"
-            src={require("assets/img/path2.png")}
+            src={require("../../img/path2.png")}
           />
           <img
             alt="..."
             className="shapes triangle"
-            src={require("assets/img/triunghiuri.png")}
+            src={require("../../img/triunghiuri.png")}
           />
           <img
             alt="..."
             className="shapes wave"
-            src={require("assets/img/waves.png")}
+            src={require("../../img/waves.png")}
           />
           <img
             alt="..."
             className="shapes squares"
-            src={require("assets/img/patrat.png")}
+            src={require("../../img/patrat.png")}
           />
           <img
             alt="..."
             className="shapes circle"
-            src={require("assets/img/cercuri.png")}
+            src={require("../../img/cercuri.png")}
           />
           <Container>
             <div className="content-center brand">

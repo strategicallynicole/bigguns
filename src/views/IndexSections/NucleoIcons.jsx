@@ -27,7 +27,7 @@ class NucleoIcons extends React.Component {
           <img
             alt="..."
             className="path"
-            src={require("assets/img/path3.png")}
+            src={require("../../img/path3.png")}
           />
           <Container>
             <Row className="justify-content-center">

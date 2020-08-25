@@ -50,7 +50,7 @@ const items = [
             <img
               alt="..."
               className="d-block"
-              src={require("assets/img/charlie.jpg")}
+              src={require("../../img/charlie.jpg")}
             />
           </Col>
           <Col md="4">
@@ -114,7 +114,7 @@ const items = [
             <img
               alt="..."
               className="d-block"
-              src={require("assets/img/tom-klein.jpg")}
+              src={require("../../img/tom-klein.jpg")}
             />
           </Col>
           <Col md="4">
@@ -178,7 +178,7 @@ const items = [
             <img
               alt="..."
               className="d-block"
-              src={require("assets/img/lucy.jpg")}
+              src={require("../../img/lucy.jpg")}
             />
           </Col>
           <Col md="4">
@@ -387,7 +387,7 @@ class Teams extends React.Component {
                         <img
                           alt="..."
                           className="img img-raised rounded"
-                          src={require("assets/img/emily.jpg")}
+                          src={require("../../img/emily.jpg")}
                         />
                       </a>
                     </div>
@@ -462,7 +462,7 @@ class Teams extends React.Component {
                         <img
                           alt="..."
                           className="img img-raised rounded"
-                          src={require("assets/img/michael.jpg")}
+                          src={require("../../img/michael.jpg")}
                         />
                       </a>
                     </div>
@@ -537,7 +537,7 @@ class Teams extends React.Component {
                         <img
                           alt="..."
                           className="img img-raised rounded"
-                          src={require("assets/img/julie.jpg")}
+                          src={require("../../img/julie.jpg")}
                         />
                       </a>
                     </div>
@@ -596,7 +596,7 @@ class Teams extends React.Component {
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/willy-dade.jpg")}
+                        src={require("../../img/willy-dade.jpg")}
                       />
                     </a>
                     <div className="card-image">
@@ -671,7 +671,7 @@ class Teams extends React.Component {
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/tom-klein.jpg")}
+                        src={require("../../img/tom-klein.jpg")}
                       />
                     </a>
                     <div className="card-image">
@@ -746,7 +746,7 @@ class Teams extends React.Component {
                       <img
                         alt="..."
                         className="img img-raised rounded"
-                        src={require("assets/img/kareya-saleh.jpg")}
+                        src={require("../../img/kareya-saleh.jpg")}
                       />
                     </a>
                     <div className="card-image">
@@ -842,7 +842,7 @@ class Teams extends React.Component {
                             <img
                               alt="..."
                               className="img"
-                              src={require("assets/img/comete-coco.jpg")}
+                              src={require("../../img/comete-coco.jpg")}
                             />
                           </a>
                         </div>
@@ -876,7 +876,7 @@ class Teams extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/james.jpg")}
+                              src={require("../../img/james.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -893,7 +893,7 @@ class Teams extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/ryan.jpg")}
+                              src={require("../../img/ryan.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -910,7 +910,7 @@ class Teams extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/lora.jpg")}
+                              src={require("../../img/lora.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -927,7 +927,7 @@ class Teams extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/mike.jpg")}
+                              src={require("../../img/mike.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -964,7 +964,7 @@ class Teams extends React.Component {
                     <CardHeader
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/ben-konfrst.jpg") + ")"
+                          "url(" + require("../../img/ben-konfrst.jpg") + ")"
                       }}
                     >
                       <div className="card-avatar">
@@ -972,7 +972,7 @@ class Teams extends React.Component {
                           <img
                             alt="..."
                             className="img img-raised"
-                            src={require("assets/img/ryan.jpg")}
+                            src={require("../../img/ryan.jpg")}
                           />
                         </a>
                       </div>
@@ -1032,7 +1032,7 @@ class Teams extends React.Component {
                     <CardHeader
                       style={{
                         backgroundImage:
-                          "url(" + require("assets/img/ruvim-noga.jpg") + ")"
+                          "url(" + require("../../img/ruvim-noga.jpg") + ")"
                       }}
                     >
                       <div className="card-avatar">
@@ -1040,7 +1040,7 @@ class Teams extends React.Component {
                           <img
                             alt="..."
                             className="img img-raised"
-                            src={require("assets/img/lora.jpg")}
+                            src={require("../../img/lora.jpg")}
                           />
                         </a>
                       </div>
@@ -1099,7 +1099,7 @@ class Teams extends React.Component {
                       style={{
                         backgroundImage:
                           "url(" +
-                          require("assets/img/sendra-martorell.jpg") +
+                          require("../../img/sendra-martorell.jpg") +
                           ")"
                       }}
                     >
@@ -1108,7 +1108,7 @@ class Teams extends React.Component {
                           <img
                             alt="..."
                             className="img img-raised"
-                            src={require("assets/img/ryan.png")}
+                            src={require("../../img/ryan.png")}
                           />
                         </a>
                       </div>

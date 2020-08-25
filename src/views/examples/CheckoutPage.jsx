@@ -39,8 +39,8 @@ import {
 } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
 
 class CheckoutPage extends React.Component {
   state = { paymentTabs: 1 };
@@ -76,7 +76,7 @@ class CheckoutPage extends React.Component {
                           <img
                             alt="..."
                             className="img-fluid rounded shadow"
-                            src={require("assets/img/gucci.png")}
+                            src={require("../../img/gucci.png")}
                           />
                         </Col>
                         <Media body>
@@ -94,7 +94,7 @@ class CheckoutPage extends React.Component {
                           <img
                             alt="..."
                             className="img-fluid rounded shadow"
-                            src={require("assets/img/jacket.png")}
+                            src={require("../../img/jacket.png")}
                           />
                         </Col>
                         <Media body>

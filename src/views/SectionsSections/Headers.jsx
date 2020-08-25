@@ -227,7 +227,7 @@ class Headers extends React.Component {
                 className="page-header-image"
                 style={{
                   backgroundImage:
-                    "url(" + require("assets/img/andre-benz.jpg") + ")"
+                    "url(" + require("../../img/andre-benz.jpg") + ")"
                 }}
               />
               <Container>
@@ -352,7 +352,7 @@ class Headers extends React.Component {
                 className="page-header-image"
                 style={{
                   backgroundImage:
-                    "url(" + require("assets/img/matt-palmer.jpg") + ")"
+                    "url(" + require("../../img/matt-palmer.jpg") + ")"
                 }}
               />
               <Container>
@@ -535,7 +535,7 @@ class Headers extends React.Component {
                         <img
                           alt="..."
                           height="500"
-                          src={require("assets/img/mark-harrison.jpg")}
+                          src={require("../../img/mark-harrison.jpg")}
                           width="450"
                         />
                       </div>
@@ -543,7 +543,7 @@ class Headers extends React.Component {
                         <img
                           alt="..."
                           height="500"
-                          src={require("assets/img/steven-roe.jpg")}
+                          src={require("../../img/steven-roe.jpg")}
                           width="450"
                         />
                       </div>
@@ -551,7 +551,7 @@ class Headers extends React.Component {
                         <img
                           alt="..."
                           height="500"
-                          src={require("assets/img/rezaul-karim.jpg")}
+                          src={require("../../img/rezaul-karim.jpg")}
                           width="450"
                         />
                       </div>
@@ -559,7 +559,7 @@ class Headers extends React.Component {
                         <img
                           alt="..."
                           height="500"
-                          src={require("assets/img/pawel-nolbert.jpg")}
+                          src={require("../../img/pawel-nolbert.jpg")}
                           width="450"
                         />
                       </div>
@@ -567,7 +567,7 @@ class Headers extends React.Component {
                         <img
                           alt="..."
                           height="500"
-                          src={require("assets/img/serge-kutuzov.jpg")}
+                          src={require("../../img/serge-kutuzov.jpg")}
                           width="450"
                         />
                       </div>
@@ -769,7 +769,7 @@ class Headers extends React.Component {
                       <div className="logo-image">
                         <img
                           alt="..."
-                          src={require("assets/img/creative-tim-white-slim2.png")}
+                          src={require("../../img/creative-tim-white-slim2.png")}
                         />
                       </div>
                     </div>
@@ -807,23 +807,23 @@ class Headers extends React.Component {
                       <img
                         alt="..."
                         className="phone"
-                        src={require("assets/img/iphone2.png")}
+                        src={require("../../img/iphone2.png")}
                       />
                     </div>
                     <img
                       alt="..."
                       className="shape"
-                      src={require("assets/img/patrat.png")}
+                      src={require("../../img/patrat.png")}
                     />
                     <img
                       alt="..."
                       className="shape2"
-                      src={require("assets/img/cercuri.png")}
+                      src={require("../../img/cercuri.png")}
                     />
                     <img
                       alt="..."
                       className="shape3"
-                      src={require("assets/img/waves.png")}
+                      src={require("../../img/waves.png")}
                     />
                   </Col>
                 </Row>
@@ -949,7 +949,7 @@ class Headers extends React.Component {
                       <img
                         alt="..."
                         className="path path3"
-                        src={require("assets/img/shape-s.png")}
+                        src={require("../../img/shape-s.png")}
                       />
                       {/* SVG Illustration */}
                       <figure className=" header-shape">
@@ -981,7 +981,7 @@ class Headers extends React.Component {
                                 style={{ overflow: "visible" }}
                                 transform="matrix(0.9488 0 0 0.9488 25 53.1187)"
                                 width="800"
-                                xlinkHref={require("assets/img/img_352.png")}
+                                xlinkHref={require("../../img/img_352.png")}
                               />
                             </g>
                           </g>
@@ -1008,7 +1008,7 @@ class Headers extends React.Component {
                                 style={{ overflow: "visible" }}
                                 transform="matrix(0.9488 0 0 0.9488 25 53.1187)"
                                 width="900"
-                                xlinkHref={require("assets/img/img_352.png")}
+                                xlinkHref={require("../../img/img_352.png")}
                               />
                             </g>
                           </g>

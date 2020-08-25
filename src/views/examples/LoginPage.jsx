@@ -36,8 +36,8 @@ import {
 } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
 
 class LoginPage extends React.Component {
   state = {};
@@ -68,7 +68,7 @@ class LoginPage extends React.Component {
                   <CardHeader>
                     <CardImg
                       alt="..."
-                      src={require("assets/img/square-purple-1.png")}
+                      src={require("../../img/square-purple-1.png")}
                     />
                     <CardTitle tag="h4">Login</CardTitle>
                   </CardHeader>

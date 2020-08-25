@@ -311,7 +311,7 @@ class ContactUs extends React.Component {
           <div
             className="contactus-1 section-image"
             style={{
-              backgroundImage: "url(" + require("assets/img/contact1.jpg") + ")"
+              backgroundImage: "url(" + require("../../img/contact1.jpg") + ")"
             }}
           >
             <Container>
@@ -615,7 +615,7 @@ class ContactUs extends React.Component {
                 className="page-header-image"
                 style={{
                   backgroundImage:
-                    "url(" + require("assets/img/andre-benz.jpg") + ")"
+                    "url(" + require("../../img/andre-benz.jpg") + ")"
                 }}
               />
               <Container>
@@ -635,7 +635,7 @@ class ContactUs extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/primary.png")}
+                        src={require("../../img/feature-blob/primary.png")}
                       />
                       <i className="tim-icons icon-square-pin" />
                     </div>
@@ -649,7 +649,7 @@ class ContactUs extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/info.png")}
+                        src={require("../../img/feature-blob/info.png")}
                       />
                       <i className="tim-icons icon-email-85" />
                     </div>
@@ -663,7 +663,7 @@ class ContactUs extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/warning.png")}
+                        src={require("../../img/feature-blob/warning.png")}
                       />
                       <i className="tim-icons icon-mobile" />
                     </div>
@@ -677,7 +677,7 @@ class ContactUs extends React.Component {
                       <img
                         alt="..."
                         className="bg-blob"
-                        src={require("assets/img/feature-blob/success.png")}
+                        src={require("../../img/feature-blob/success.png")}
                       />
                       <i className="tim-icons icon-single-02" />
                     </div>

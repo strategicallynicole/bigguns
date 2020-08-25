@@ -22,9 +22,9 @@ import React from "react";
 // } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import PresentationHeader from "components/Headers/PresentationHeader.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../components/Navbars/ColorNavbar.jsx";
+import PresentationHeader from "../components/Headers/PresentationHeader.jsx";
+import DemoFooter from "../components/Footers/DemoFooter.jsx";
 
 // Sections for this page
 // (we've divided this page into multiple react components to make it a bit more readable)

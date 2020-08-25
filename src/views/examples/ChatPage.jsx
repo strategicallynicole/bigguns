@@ -44,8 +44,8 @@ import {
 } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
 
 class ChatPage extends React.Component {
   state = {};
@@ -99,7 +99,7 @@ class ChatPage extends React.Component {
                           <img
                             alt="..."
                             className="avatar"
-                            src={require("assets/img/p10.jpg")}
+                            src={require("../../img/p10.jpg")}
                           />
                           <Media body className="ml-2">
                             <div className="justify-content-between align-items-center">
@@ -122,7 +122,7 @@ class ChatPage extends React.Component {
                           <img
                             alt="..."
                             className="avatar"
-                            src={require("assets/img/johana.jpg")}
+                            src={require("../../img/johana.jpg")}
                           />
                           <Media body className="ml-2">
                             <div className="justify-content-between align-items-center">
@@ -149,7 +149,7 @@ class ChatPage extends React.Component {
                           <img
                             alt="..."
                             className="avatar"
-                            src={require("assets/img/ryan.png")}
+                            src={require("../../img/ryan.png")}
                           />
                           <Media body className="ml-2">
                             <div className="justify-content-between align-items-center">
@@ -176,7 +176,7 @@ class ChatPage extends React.Component {
                           <img
                             alt="..."
                             className="avatar"
-                            src={require("assets/img/kareya-saleh.jpg")}
+                            src={require("../../img/kareya-saleh.jpg")}
                           />
                           <Media body className="ml-2">
                             <div className="justify-content-between align-items-center">
@@ -205,7 +205,7 @@ class ChatPage extends React.Component {
                           <img
                             alt="..."
                             className="avatar"
-                            src={require("assets/img/christian.jpg")}
+                            src={require("../../img/christian.jpg")}
                           />
                           <Media body className="ml-2">
                             <div className="justify-content-between align-items-center">
@@ -235,7 +235,7 @@ class ChatPage extends React.Component {
                             <img
                               alt="..."
                               className="avatar"
-                              src={require("assets/img/p10.jpg")}
+                              src={require("../../img/p10.jpg")}
                             />
                             <Media body>
                               <h6 className="mb-0 d-block">Charlie Watson</h6>
@@ -426,7 +426,7 @@ class ChatPage extends React.Component {
                                 <img
                                   alt="..."
                                   className="img-fluid rounded mb-1"
-                                  src={require("assets/img/luke.jpg")}
+                                  src={require("../../img/luke.jpg")}
                                 />
                               </Col>
                               <div>

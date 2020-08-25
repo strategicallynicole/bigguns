@@ -39,8 +39,8 @@ import {
 } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
 
 class RegisterPage extends React.Component {
   state = {
@@ -103,7 +103,7 @@ class RegisterPage extends React.Component {
                     <CardHeader>
                       <CardImg
                         alt="..."
-                        src={require("assets/img/square1.png")}
+                        src={require("../../img/square1.png")}
                       />
                       <CardTitle tag="h4">Register</CardTitle>
                     </CardHeader>

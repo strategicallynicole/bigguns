@@ -200,17 +200,17 @@ class Tables extends React.Component {
                                   <img
                                     alt="..."
                                     className="background"
-                                    src={require("assets/img/bg4.png")}
+                                    src={require("../../img/bg4.png")}
                                   />
                                   <img
                                     alt="..."
                                     className="man"
-                                    src={require("assets/img/man-up.png")}
+                                    src={require("../../img/man-up.png")}
                                   />
                                   <img
                                     alt="..."
                                     className="girl"
-                                    src={require("assets/img/girl-up.png")}
+                                    src={require("../../img/girl-up.png")}
                                   />
                                 </th>
                                 <th className="text-center">

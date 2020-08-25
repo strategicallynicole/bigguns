@@ -34,10 +34,10 @@ import {
 } from "reactstrap";
 
 // core components
-import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
-import DemoFooter from "components/Footers/DemoFooter.jsx";
+import ColorNavbar from "../../components/Navbars/ColorNavbar.jsx";
+import DemoFooter from "../../components/Footers/DemoFooter.jsx";
 
-import { chartExample1 } from "variables/charts.js";
+import { chartExample1 } from "../../variables/charts.js";
 
 class LandingPage extends React.Component {
   componentDidMount() {
@@ -58,32 +58,32 @@ class LandingPage extends React.Component {
             <img
               alt="..."
               className="path"
-              src={require("assets/img/blob.png")}
+              src={require("../../img/blob.png")}
             />
             <img
               alt="..."
               className="path2"
-              src={require("assets/img/path2.png")}
+              src={require("../../img/path2.png")}
             />
             <img
               alt="..."
               className="shapes triangle"
-              src={require("assets/img/triunghiuri.png")}
+              src={require("../../img/triunghiuri.png")}
             />
             <img
               alt="..."
               className="shapes wave"
-              src={require("assets/img/waves.png")}
+              src={require("../../img/waves.png")}
             />
             <img
               alt="..."
               className="shapes squares"
-              src={require("assets/img/patrat.png")}
+              src={require("../../img/patrat.png")}
             />
             <img
               alt="..."
               className="shapes circle"
-              src={require("assets/img/cercuri.png")}
+              src={require("../../img/cercuri.png")}
             />
             <Container>
               <Row className="row-grid justify-content-between align-items-center text-left">
@@ -144,7 +144,7 @@ class LandingPage extends React.Component {
                   <img
                     alt="..."
                     className="img-fluid"
-                    src={require("assets/img/etherum.png")}
+                    src={require("../../img/etherum.png")}
                   />
                 </Col>
               </Row>
@@ -155,7 +155,7 @@ class LandingPage extends React.Component {
               <img
                 alt="..."
                 className="path"
-                src={require("assets/img/path4.png")}
+                src={require("../../img/path4.png")}
               />
               <Container>
                 <Row className="row-grid justify-content-between">
@@ -282,17 +282,17 @@ class LandingPage extends React.Component {
             <img
               alt="..."
               className="path"
-              src={require("assets/img/path4.png")}
+              src={require("../../img/path4.png")}
             />
             <img
               alt="..."
               className="path2"
-              src={require("assets/img/path5.png")}
+              src={require("../../img/path5.png")}
             />
             <img
               alt="..."
               className="path3"
-              src={require("assets/img/path2.png")}
+              src={require("../../img/path2.png")}
             />
             <Container>
               <Row className="justify-content-center">
@@ -350,7 +350,7 @@ class LandingPage extends React.Component {
             <img
               alt="..."
               className="path"
-              src={require("assets/img/path5.png")}
+              src={require("../../img/path5.png")}
             />
             <Container>
               <Row className="row-grid justify-content-between">
@@ -358,7 +358,7 @@ class LandingPage extends React.Component {
                   <img
                     alt="..."
                     className="img-fluid floating"
-                    src={require("assets/img/chester-wade.jpg")}
+                    src={require("../../img/chester-wade.jpg")}
                   />
                   <Card className="card-stats bg-danger">
                     <CardBody>
@@ -443,12 +443,12 @@ class LandingPage extends React.Component {
             <img
               alt="..."
               className="path"
-              src={require("assets/img/path4.png")}
+              src={require("../../img/path4.png")}
             />
             <img
               alt="..."
               className="path2"
-              src={require("assets/img/path2.png")}
+              src={require("../../img/path2.png")}
             />
             <Col md="12">
               <Card className="card-chart card-plain">
@@ -476,7 +476,7 @@ class LandingPage extends React.Component {
             <img
               alt="..."
               className="path"
-              src={require("assets/img/path3.png")}
+              src={require("../../img/path3.png")}
             />
             <Container>
               <Row>
@@ -495,7 +495,7 @@ class LandingPage extends React.Component {
                       <img
                         alt="..."
                         className="img-center img-fluid"
-                        src={require("assets/img/bitcoin.png")}
+                        src={require("../../img/bitcoin.png")}
                       />
                     </CardHeader>
                     <CardBody>
@@ -527,7 +527,7 @@ class LandingPage extends React.Component {
                       <img
                         alt="..."
                         className="img-center img-fluid"
-                        src={require("assets/img/etherum.png")}
+                        src={require("../../img/etherum.png")}
                       />
                     </CardHeader>
                     <CardBody>
@@ -559,7 +559,7 @@ class LandingPage extends React.Component {
                       <img
                         alt="..."
                         className="img-center img-fluid"
-                        src={require("assets/img/ripp.png")}
+                        src={require("../../img/ripp.png")}
                       />
                     </CardHeader>
                     <CardBody>

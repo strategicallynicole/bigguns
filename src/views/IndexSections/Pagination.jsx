@@ -36,12 +36,12 @@ class PaginationSection extends React.Component {
           <img
             alt="..."
             className="path"
-            src={require("assets/img/path4.png")}
+            src={require("../../img/path4.png")}
           />
           <img
             alt="..."
             className="path path1"
-            src={require("assets/img/path5.png")}
+            src={require("../../img/path5.png")}
           />
           <Container>
             <Row>

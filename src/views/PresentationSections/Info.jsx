@@ -31,7 +31,7 @@ class Info extends React.Component {
                   <img
                     alt="..."
                     className="bg-blob"
-                    src={require("assets/img/feature-blob/primary.png")}
+                    src={require("../../img/feature-blob/primary.png")}
                   />
                   <i className="tim-icons icon-user-run" />
                 </div>
@@ -49,7 +49,7 @@ class Info extends React.Component {
                   <img
                     alt="..."
                     className="bg-blob"
-                    src={require("assets/img/feature-blob/warning.png")}
+                    src={require("../../img/feature-blob/warning.png")}
                   />
                   <i className="tim-icons icon-atom" />
                 </div>
@@ -67,7 +67,7 @@ class Info extends React.Component {
                   <img
                     alt="..."
                     className="bg-blob"
-                    src={require("assets/img/feature-blob/success.png")}
+                    src={require("../../img/feature-blob/success.png")}
                   />
                   <i className="tim-icons icon-gift-2" />
                 </div>

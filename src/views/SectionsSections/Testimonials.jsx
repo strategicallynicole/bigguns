@@ -61,7 +61,7 @@ const items1 = [
             <img
               alt="..."
               className="d-block"
-              src={require("assets/img/lucy.jpg")}
+              src={require("../../img/lucy.jpg")}
             />
           </Col>
         </Row>
@@ -98,7 +98,7 @@ const items1 = [
             <img
               alt="..."
               className="d-block"
-              src={require("assets/img/tom-klein.jpg")}
+              src={require("../../img/tom-klein.jpg")}
             />
           </Col>
         </Row>
@@ -119,7 +119,7 @@ const items2 = [
             <img
               alt="..."
               className="img img-raised rounded"
-              src={require("assets/img/michael.jpg")}
+              src={require("../../img/michael.jpg")}
             />
           </a>
         </div>
@@ -142,7 +142,7 @@ const items2 = [
             <img
               alt="..."
               className="img img-raised rounded"
-              src={require("assets/img/olivia.jpg")}
+              src={require("../../img/olivia.jpg")}
             />
           </a>
         </div>
@@ -405,7 +405,7 @@ class Testimonials extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/p10.jpg")}
+                            src={require("../../img/p10.jpg")}
                           />
                           <span>Mike John</span>
                         </div>
@@ -419,7 +419,7 @@ class Testimonials extends React.Component {
                           style={{
                             backgroundImage:
                               "url(" +
-                              require("assets/img/marc-olivier-jodoin.jpg") +
+                              require("../../img/marc-olivier-jodoin.jpg") +
                               ")"
                           }}
                         />
@@ -454,7 +454,7 @@ class Testimonials extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/olivia.jpg")}
+                            src={require("../../img/olivia.jpg")}
                           />
                           <span>Andrew Lino</span>
                         </div>
@@ -467,7 +467,7 @@ class Testimonials extends React.Component {
                           className="full-background"
                           style={{
                             backgroundImage:
-                              "url(" + require("assets/img/contact1.jpg") + ")"
+                              "url(" + require("../../img/contact1.jpg") + ")"
                           }}
                         />
                         <CardBody>
@@ -527,7 +527,7 @@ class Testimonials extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/olivia.jpg")}
+                            src={require("../../img/olivia.jpg")}
                           />
                           <span>Andrew Lino</span>
                         </div>
@@ -542,7 +542,7 @@ class Testimonials extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/james.jpg")}
+                            src={require("../../img/james.jpg")}
                           />
                           <span>Michael Jenos</span>
                         </div>
@@ -557,7 +557,7 @@ class Testimonials extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/ryan.jpg")}
+                            src={require("../../img/ryan.jpg")}
                           />
                           <span>Rose Arthur</span>
                         </div>
@@ -572,7 +572,7 @@ class Testimonials extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/lora.jpg")}
+                            src={require("../../img/lora.jpg")}
                           />
                           <span>Lora Jimi</span>
                         </div>
@@ -587,7 +587,7 @@ class Testimonials extends React.Component {
                           <img
                             alt="..."
                             className="avatar img-raised"
-                            src={require("assets/img/mike.jpg")}
+                            src={require("../../img/mike.jpg")}
                           />
                           <span>Mike Ranson</span>
                         </div>

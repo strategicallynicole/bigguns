@@ -45,32 +45,32 @@ class BasicComponents extends React.Component {
                   <img
                     alt="..."
                     className="table-img"
-                    src={require("assets/img/presentation-page/table.png")}
+                    src={require("../../img/presentation-page/table.png")}
                   />
                   <img
                     alt="..."
                     className="share-btn-img"
-                    src={require("assets/img/presentation-page/success-btn.png")}
+                    src={require("../../img/presentation-page/success-btn.png")}
                   />
                   <img
                     alt="..."
                     className="coloured-card-btn-img"
-                    src={require("assets/img/presentation-page/card-btn.png")}
+                    src={require("../../img/presentation-page/card-btn.png")}
                   />
                   <img
                     alt="..."
                     className="coloured-card-img"
-                    src={require("assets/img/presentation-page/card-orange.png")}
+                    src={require("../../img/presentation-page/card-orange.png")}
                   />
                   <img
                     alt="..."
                     className="linkedin-btn-img"
-                    src={require("assets/img/presentation-page/dribbble-btn.png")}
+                    src={require("../../img/presentation-page/dribbble-btn.png")}
                   />
                   <img
                     alt="..."
                     className="path path3"
-                    src={require("assets/img/path3.png")}
+                    src={require("../../img/path3.png")}
                   />
                   {/* SVG Illustration */}
                   <figure className="ie-non-standard-hero-shape">
@@ -101,7 +101,7 @@ class BasicComponents extends React.Component {
                             style={{ overflow: "visible" }}
                             width="900"
                             height="900"
-                            xlinkHref={require("assets/img/elements-bg.png")}
+                            xlinkHref={require("../../img/elements-bg.png")}
                             transform="matrix(0.9488 0 0 0.9488 25 53.1187)"
                           />
                         </g>
@@ -128,7 +128,7 @@ class BasicComponents extends React.Component {
                             style={{ overflow: "visible" }}
                             width="900"
                             height="1000"
-                            xlinkHref={require("assets/img/elements-bg.png")}
+                            xlinkHref={require("../../img/elements-bg.png")}
                             transform="matrix(0.9488 0 0 0.9488 25 53.1187)"
                           >
                             {" "}

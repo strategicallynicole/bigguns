@@ -140,7 +140,7 @@ class Cards extends React.Component {
                             <img
                               alt="..."
                               className="img rounded"
-                              src={require("assets/img/noah-wetering.jpg")}
+                              src={require("../../img/noah-wetering.jpg")}
                             />
                           </a>
                         </div>
@@ -160,7 +160,7 @@ class Cards extends React.Component {
                               <img
                                 alt="..."
                                 className="avatar img-raised d-inline"
-                                src={require("assets/img/johana.jpg")}
+                                src={require("../../img/johana.jpg")}
                               />
                               <span>Jona Zmud</span>
                             </div>
@@ -179,7 +179,7 @@ class Cards extends React.Component {
                           style={{
                             backgroundImage:
                               "url(" +
-                              require("assets/img/randy-colas.jpg") +
+                              require("../../img/randy-colas.jpg") +
                               ")"
                           }}
                         />
@@ -193,7 +193,7 @@ class Cards extends React.Component {
                               <img
                                 alt="..."
                                 className="avatar img-raised mx-auto"
-                                src={require("assets/img/p10.jpg")}
+                                src={require("../../img/p10.jpg")}
                               />
                             </div>
                           </div>
@@ -240,7 +240,7 @@ class Cards extends React.Component {
                             <img
                               alt="..."
                               className="img img-raised rounded w-100"
-                              src={require("assets/img/michael.jpg")}
+                              src={require("../../img/michael.jpg")}
                             />
                           </a>
                         </div>
@@ -281,7 +281,7 @@ class Cards extends React.Component {
                           style={{
                             backgroundImage:
                               "url(" +
-                              require("assets/img/sendra-martorell.jpg") +
+                              require("../../img/sendra-martorell.jpg") +
                               ")"
                           }}
                         >
@@ -290,7 +290,7 @@ class Cards extends React.Component {
                               <img
                                 alt="..."
                                 className="img img-raised"
-                                src={require("assets/img/ryan.png")}
+                                src={require("../../img/ryan.png")}
                               />
                             </a>
                           </div>
@@ -353,7 +353,7 @@ class Cards extends React.Component {
                           <img
                             alt="..."
                             className="img img-raised rounded"
-                            src={require("assets/img/tom-klein.jpg")}
+                            src={require("../../img/tom-klein.jpg")}
                           />
                         </a>
                         <div className="card-image">

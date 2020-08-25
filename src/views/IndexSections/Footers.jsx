@@ -358,42 +358,42 @@ class Footers extends React.Component {
                         <img
                           alt="..."
                           className="img img-raised rounded"
-                          src={require("assets/img/olivia.jpg")}
+                          src={require("../../img/olivia.jpg")}
                         />
                         <img
                           alt="..."
                           className="img img-raised rounded"
-                          src={require("assets/img/johana.jpg")}
+                          src={require("../../img/johana.jpg")}
                         />
                         <img
                           alt="..."
                           className="img img-raised rounded"
-                          src={require("assets/img/michael.jpg")}
+                          src={require("../../img/michael.jpg")}
                         />
                         <img
                           alt="..."
                           className="img img-raised rounded"
-                          src={require("assets/img/emily.jpg")}
+                          src={require("../../img/emily.jpg")}
                         />
                         <img
                           alt="..."
                           className="img img-raised rounded"
-                          src={require("assets/img/marie.jpg")}
+                          src={require("../../img/marie.jpg")}
                         />
                         <img
                           alt="..."
                           className="img img-raised rounded"
-                          src={require("assets/img/usher.jpg")}
+                          src={require("../../img/usher.jpg")}
                         />
                         <img
                           alt="..."
                           className="img img-raised rounded"
-                          src={require("assets/img/mike.jpeg")}
+                          src={require("../../img/mike.jpeg")}
                         />
                         <img
                           alt="..."
                           className="img img-raised rounded"
-                          src={require("assets/img/julie.jpg")}
+                          src={require("../../img/julie.jpg")}
                         />
                       </div>
                     </Col>

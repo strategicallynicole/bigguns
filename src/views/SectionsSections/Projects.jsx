@@ -183,7 +183,7 @@ class Projects extends React.Component {
                           <img
                             alt="..."
                             className="img-fluid rounded-circle shadow"
-                            src={require("assets/img/slack.png")}
+                            src={require("../../img/slack.png")}
                             style={{ width: "100px" }}
                           />
                         </a>
@@ -205,7 +205,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/james.jpg")}
+                              src={require("../../img/james.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -222,7 +222,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/ryan.jpg")}
+                              src={require("../../img/ryan.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -239,7 +239,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/lora.jpg")}
+                              src={require("../../img/lora.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -256,7 +256,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/mike.jpg")}
+                              src={require("../../img/mike.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -316,7 +316,7 @@ class Projects extends React.Component {
                           <img
                             alt="..."
                             className="img-fluid rounded-circle shadow"
-                            src={require("assets/img/spotify.jpeg")}
+                            src={require("../../img/spotify.jpeg")}
                             style={{ width: "100px" }}
                           />
                         </a>
@@ -338,7 +338,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/james.jpg")}
+                              src={require("../../img/james.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -355,7 +355,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/ryan.jpg")}
+                              src={require("../../img/ryan.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -372,7 +372,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/lora.jpg")}
+                              src={require("../../img/lora.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -389,7 +389,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/mike.jpg")}
+                              src={require("../../img/mike.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -449,7 +449,7 @@ class Projects extends React.Component {
                           <img
                             alt="..."
                             className="img-fluid rounded-circle shadow"
-                            src={require("assets/img/dribbble.png")}
+                            src={require("../../img/dribbble.png")}
                             style={{ width: "100px" }}
                           />
                         </a>
@@ -472,7 +472,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/james.jpg")}
+                              src={require("../../img/james.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -489,7 +489,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/ryan.jpg")}
+                              src={require("../../img/ryan.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -506,7 +506,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/lora.jpg")}
+                              src={require("../../img/lora.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -523,7 +523,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/mike.jpg")}
+                              src={require("../../img/mike.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -583,7 +583,7 @@ class Projects extends React.Component {
                           <img
                             alt="..."
                             className="img-fluid rounded-circle shadow"
-                            src={require("assets/img/Tim.png")}
+                            src={require("../../img/Tim.png")}
                             style={{ width: "100px" }}
                           />
                         </a>
@@ -605,7 +605,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/james.jpg")}
+                              src={require("../../img/james.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -622,7 +622,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/ryan.jpg")}
+                              src={require("../../img/ryan.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -639,7 +639,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/lora.jpg")}
+                              src={require("../../img/lora.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -656,7 +656,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/mike.jpg")}
+                              src={require("../../img/mike.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -716,7 +716,7 @@ class Projects extends React.Component {
                           <img
                             alt="..."
                             className="img-fluid rounded-circle shadow"
-                            src={require("assets/img/dropbox.png")}
+                            src={require("../../img/dropbox.png")}
                             style={{ width: "100px" }}
                           />
                         </a>
@@ -739,7 +739,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/james.jpg")}
+                              src={require("../../img/james.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -756,7 +756,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/ryan.jpg")}
+                              src={require("../../img/ryan.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -773,7 +773,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/lora.jpg")}
+                              src={require("../../img/lora.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -790,7 +790,7 @@ class Projects extends React.Component {
                           >
                             <img
                               alt="..."
-                              src={require("assets/img/mike.jpg")}
+                              src={require("../../img/mike.jpg")}
                             />
                           </a>
                           <UncontrolledTooltip
@@ -850,7 +850,7 @@ class Projects extends React.Component {
                           <img
                             alt="..."
                             className="img-fluid rounded-circle shadow"
-                            src={require("assets/img/unass.jpg")}
+                            src={require("../../img/unass.jpg")}
                             style={{ width: "100px" }}
                           />
                         </a>
@@ -1059,7 +1059,7 @@ class Projects extends React.Component {
                               <img
                                 alt="..."
                                 className="avatar img-raised"
-                                src={require("assets/img/Tim.png")}
+                                src={require("../../img/Tim.png")}
                               />
                               <span className="ml-1">Material Kit React</span>
                             </div>
@@ -1088,7 +1088,7 @@ class Projects extends React.Component {
                               <img
                                 alt="..."
                                 className="avatar img-raised"
-                                src={require("assets/img/Tim.png")}
+                                src={require("../../img/Tim.png")}
                               />
                               <span className="ml-1">
                                 Black Dashboard React
@@ -1117,7 +1117,7 @@ class Projects extends React.Component {
                               <img
                                 alt="..."
                                 className="avatar img-raised"
-                                src={require("assets/img/Tim.png")}
+                                src={require("../../img/Tim.png")}
                               />
                               <span className="ml-1">
                                 Argon Dashboard Pro React
@@ -1209,7 +1209,7 @@ class Projects extends React.Component {
                         <img
                           alt="..."
                           className="img rounded img-raised"
-                          src={require("assets/img/card-blog2.jpg")}
+                          src={require("../../img/card-blog2.jpg")}
                         />
                       </a>
                     </div>
@@ -1237,7 +1237,7 @@ class Projects extends React.Component {
                         <img
                           alt="..."
                           className="img rounded img-raised"
-                          src={require("assets/img/chester-wade.jpg")}
+                          src={require("../../img/chester-wade.jpg")}
                         />
                       </a>
                     </div>
@@ -1270,7 +1270,7 @@ class Projects extends React.Component {
                         <img
                           alt="..."
                           className="img rounded img-raised"
-                          src={require("assets/img/fabien-bazanegue.jpg")}
+                          src={require("../../img/fabien-bazanegue.jpg")}
                         />
                       </a>
                     </div>
@@ -1303,7 +1303,7 @@ class Projects extends React.Component {
                         <img
                           alt="..."
                           className="img rounded img-raised"
-                          src={require("assets/img/mark-finn.jpg")}
+                          src={require("../../img/mark-finn.jpg")}
                         />
                       </a>
                     </div>
@@ -1339,7 +1339,7 @@ class Projects extends React.Component {
                     className="card-background"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg8.jpg") + ")"
+                        "url(" + require("../../img/bg8.jpg") + ")"
                     }}
                   >
                     <CardBody className="text-left">
@@ -1365,7 +1365,7 @@ class Projects extends React.Component {
                     className="card-background"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg7.jpg") + ")"
+                        "url(" + require("../../img/bg7.jpg") + ")"
                     }}
                   >
                     <CardBody className="text-left">
@@ -1391,7 +1391,7 @@ class Projects extends React.Component {
                     className="card-background"
                     style={{
                       backgroundImage:
-                        "url(" + require("assets/img/bg4.jpg") + ")"
+                        "url(" + require("../../img/bg4.jpg") + ")"
                     }}
                   >
                     <CardBody className="text-left">
