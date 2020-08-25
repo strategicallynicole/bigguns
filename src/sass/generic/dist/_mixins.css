@@ -1,0 +1,25 @@
+/*@mixin breakpoint-down($name, $breakpoints: $breakpoints) {
+	$max: breakpoint-max($name, $breakpoints);
+
+	@if $max == 767px {
+		@media (max-width: $max), screen and (max-width: $responsive-ios) and (orientation: landscape) {
+			@content;
+		}
+	} @else {
+		@media (max-width: $max) {
+			@content;
+		}
+	}
+*/
+/* example usage*/
+.strokeyhover:hover {
+  border: 1px solid #6c5ba7 !important;
+}
+
+.strokeyhover:focus {
+  border: none !important;
+}
+
+.strokeyhover:active {
+  border: none !important;
+}
