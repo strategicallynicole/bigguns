@@ -2,7 +2,7 @@ const path = require(`path`)
 
 const config = require(`./src/utils/siteConfig`)
 const generateRSSFeed = require(`./src/utils/rss/generate-feed`)
-
+const siteUrl = 'https://bigguns-3dc63.netlify.app'
 let ghostConfig
 
 try {
@@ -50,7 +50,7 @@ module.exports = {
             }
         },
         {
-            resolve: `gatsby-plugin-stackbit-static-sass`,
+            resolve: `gatsby-plugin-sass`,
             options: {
                 inputFile: `${__dirname}/src/sass/main.scss`,
                 outputFile: `${__dirname}/public/assets/css/main.css`

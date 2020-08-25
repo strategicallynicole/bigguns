@@ -6,6 +6,7 @@ var config = require("./src/utils/siteConfig");
 
 var generateRSSFeed = require("./src/utils/rss/generate-feed");
 
+var siteUrl = 'https://bigguns-3dc63.netlify.app';
 var ghostConfig;
 
 try {
@@ -50,7 +51,7 @@ module.exports = {
       path: "".concat(__dirname, "/src/pages")
     }
   }, {
-    resolve: "gatsby-plugin-stackbit-static-sass",
+    resolve: "gatsby-plugin-sass",
     options: {
       inputFile: "".concat(__dirname, "/src/sass/main.scss"),
       outputFile: "".concat(__dirname, "/public/assets/css/main.css")
