@@ -51,7 +51,7 @@ module.exports = {
       path: "".concat(__dirname, "/src/pages")
     }
   }, {
-    resolve: "gatsby-plugin-sass",
+    resolve: "gatsby-plugin-stackbit-static-sass",
     options: {
       inputFile: "".concat(__dirname, "/src/sass/main.scss"),
       outputFile: "".concat(__dirname, "/public/assets/css/main.css")

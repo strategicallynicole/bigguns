@@ -50,7 +50,7 @@ module.exports = {
             }
         },
         {
-            resolve: `gatsby-plugin-sass`,
+            resolve: `gatsby-plugin-stackbit-static-sass`,
             options: {
                 inputFile: `${__dirname}/src/sass/main.scss`,
                 outputFile: `${__dirname}/public/assets/css/main.css`

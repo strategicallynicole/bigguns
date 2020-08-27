@@ -1,0 +1,9 @@
+//- Main Navigation
+ul.navbar-navigation.rd-navbar-nav.fullpage-navigation( class= item.class )&attributes( item.attributes )&attributes( attributes )
+	each item in site.navigation
+		if page.url == item.url
+			li
+				a.site-nav-item(href='item.url' aria-current="page") item.label
+		else
+			li
+				a.site-nav-item(href='item.url') item.label

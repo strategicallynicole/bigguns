@@ -42,7 +42,8 @@
 /* ------------------------------------------------------------ *\
 	Components
 \* ------------------------------------------------------------ */
-/*@import 'blk-design-system-pro-react.scss';*/
+// @import 'blk-design-system-pro-react.scss';
+@import "../components/base/base.scss";
 @import '_sprite.css';
 @import 'components/accordion';
 @import 'components/animation';
@@ -95,6 +96,3 @@
 \* ------------------------------------------------------------ */
 
 //@import 'overwrites/';
-
-
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300&display=swap');
